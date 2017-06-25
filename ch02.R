@@ -1,1 +1,2 @@
-help()
+start()
+help.start()
